@@ -1,0 +1,17 @@
+[user]
+name=roaway
+email=roaway@gmail.com
+
+[alias]
+co=check
+ci=commit
+st=status
+pl=pull
+ps=push
+df=diff
+dt=difftool
+l=log --stat
+cp=cherry-pick
+ca=commit -a
+br=branch
+
